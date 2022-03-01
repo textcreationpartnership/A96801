@@ -1,0 +1,665 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Childrens bread or, A briefe forme of Christian doctrine, necessary for the instruction of such as are ignorant; and for the edification of such as have attained some measure of knowledge. By Tho: Wolfall minister of the Gospel, and pastour of Stanerton in Northumberland.</title>
+            <author>Wolfall, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96801</idno>
+            <idno type="STC">Wing W3248</idno>
+            <idno type="STC">Thomason E1186_11</idno>
+            <idno type="STC">ESTC R208229</idno>
+            <idno type="EEBO-CITATION">99867195</idno>
+            <idno type="PROQUEST">99867195</idno>
+            <idno type="VID">119496</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119496)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1186[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Childrens bread or, A briefe forme of Christian doctrine, necessary for the instruction of such as are ignorant; and for the edification of such as have attained some measure of knowledge. By Tho: Wolfall minister of the Gospel, and pastour of Stanerton in Northumberland.</title>
+                  <author>Wolfall, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.M. for Iohn Bellamie, at the sign of the three golden Lyons in Cornhil, neer the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "may 22: 1646.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian ethics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119496:1" rendition="simple:additions"/>
+            <p>Childrens Bread: <hi>OR,</hi> A BRIEFE FORME of Chriſtian <hi>Doctrine,</hi> neceſ<g ref="char:EOLhyphen"/>ſary for the inſtruction of ſuch as are ignorant; and for the edification of ſuch as have attained ſome meaſure of knowledge. By <hi>Tho: Wolfall</hi> Miniſter of the Goſpel, and Paſtour of <hi>Stanerton</hi> in NORTHUMBERLAND.</p>
+            <q>
+               <bibl>
+                  <hi>GEN. 18.19.</hi>
+               </bibl>
+               <p>I know Abraham, that he will command his children and his houſhold after him, and they ſhall keep the way of the Lord.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>IOV. 22.6.</hi>
+               </bibl>
+               <p>Train up a childe in the way he ſhould go, and when he is old, he will not depart from it.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>IOV 20.15.</hi>
+               </bibl>
+               <p>A childe left to himſelfe, bringeth his Mother to ſhame.</p>
+            </q>
+            <q>Meum eſt docere, veſtrum eſt auſcultare, Dei eſt per<g ref="char:EOLhyphen"/>ere, <bibl>
+                  <hi>Cyril.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>G. M.</hi> for <hi>Iohn Bellamie,</hi> at the Sign of the three golden Lyons in <hi>Cornhil,</hi> neer the Royall Exchange.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:119496:2"/>
+            <pb n="1" facs="tcp:119496:2"/>
+            <head>CHILDRENS BREAD.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> Of God, and of the Covenant of works.</head>
+               <p>Queſtion.</p>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">H</seg>Ow may a man finde out the way to true hap<g ref="char:EOLhyphen"/>pineſſe?</hi>
+               </p>
+               <p>
+                  <hi>A</hi> Out of the ſacred Scriptures, the old and new Teſtament, which are the rule of faith, and manners, and able to make us wiſe to ſalvation, 2 <hi>Tim.</hi> 3.15. <hi>Eccleſ.</hi> 12.10. <hi>Gal.</hi> 6.16. <hi>Rom.</hi> 10.14. <hi>Pſal.</hi> 12.6.</p>
+               <p>Q <hi>How doth the Scripture hold forth this unto us?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By teaching us the knowledge of God and his Cove<g ref="char:EOLhyphen"/>nant</p>
+               <p>Q <hi>What doth the Scripture hold forth concerning God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, that God is a Spirit, having his eternall being from himſelfe, and is to be worſhipped in ſpirit, and truth.</p>
+               <p>Secondly, That God is one in his Eſſence, and diſtingui<g ref="char:EOLhyphen"/>ſhed into three Perſons; the Father, the Son, and the holy Ghoſt, <hi>Deut.</hi> 6.4. 1 <hi>Cor.</hi> 8.4. <hi>Matth.</hi> 28.19. 1. <hi>Iob.</hi> 5.7.</p>
+               <p>Q <hi>What elſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, the propertie of the Father, is to beget the Son; the property of the Son, is to be begotten of the Fa<g ref="char:EOLhyphen"/>ther; the property of the holy Ghoſt, is to proceed from the Father and the Son.</p>
+               <p>Secondly, that theſe three are equall in power, wiſdome,
+<pb n="2" facs="tcp:119496:3"/>immenſity, eternity, and all other Attributes, <hi>Exod.</hi> 34.6. <hi>Rom.</hi> 16.27. <hi>Iob.</hi> 35.7.</p>
+               <p>Q <hi>What doth the Scripture declare concerning the Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That mans way to true happineſſe, before and ſince the fall, hath been by a way of Covenanting.</p>
+               <p>Q <hi>What was the firſt Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It was a Covenant of works, contained in the ten Commandements, which were written in mans heart, bin<g ref="char:EOLhyphen"/>ding him to perfect, and perpetuall obedience.</p>
+               <p>Q <hi>What was mans condition under the firſt Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, He was holy created after Gods Image, in wiſdome, righteouſneſſe, and true holineſſe, <hi>Gen.</hi> 1.26. <hi>Col.</hi> 3.10. <hi>Eph.</hi> 4.24.</p>
+               <p>Secondly, He was happy, in that he had communion with God, a quiet conſcience, dominion over the Creatures, and all the contents of Paradiſe, <hi>Gen.</hi> 1.29. and 2.15, 16, 17. <hi>Pſal.</hi> 8.6.</p>
+               <p>Q. <hi>Why then was there neceſsity of another Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe man being inticed by the Devil, did wilful<g ref="char:EOLhyphen"/>ly, and wantonly breake the firſt Covenant, and thereby brought on himſelf, and on his poſterity the blot and guilt of ſin, <hi>Lev</hi> 5.2, 3. <hi>Rom.</hi> 3.9. 1 <hi>Cor.</hi> 15.17.</p>
+               <p>Q <hi>What harm commeth by the blot of ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Loſſe of mans originall beauty, in his averſion from God, and proneneſſe to all ſin, in thought, word, and deed, <hi>Matth.</hi> 15.11. <hi>Revel.</hi> 22.11. <hi>Iſa.</hi> 1.15. <hi>Ier.</hi> 2.13.</p>
+               <p>Q. <hi>What by the guilt of ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We ſtand bound over to all kindes of puniſhment. Firſt, temporall, the curſe on the creatures, on mans body, ſtate, and poſterity, <hi>Rom.</hi> 8.20. <hi>Deut.</hi> 28.15. <hi>Rom.</hi> 6.21.</p>
+               <p>Secondly, ſpirituall, as blindneſſe of minde, horrour of conſcience, a reprobate ſenſe, and ſtrong deluſions, <hi>Luke</hi> 19.41, 42. <hi>Mat.</hi> 27.3. <hi>Rom.</hi> 1.28. 1 <hi>Theſ.</hi> 2.10, 11.</p>
+               <p>Thirdly, Eternal, the abſence of God, the fire of Hell, the company of Devils, and damned perſons, and blackneſſe
+<pb n="3" facs="tcp:119496:3"/>of darkneſſe for ever, <hi>Matth.</hi> 25.41. <hi>Marke</hi> 13.40. <hi>Iude.</hi> 13.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of the new Covenant, and of the Mediatour of it.</head>
+               <p>Qu. <hi>DOth the new Covenant helpe us in this wofull caſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Very much; for it is a Covenant of grace and reconciliation, made betweene God and loſt man, through the mediation of Jeſus Chriſt, 2 <hi>Cor.</hi> 5.18. <hi>Iſa.</hi> 28.16. <hi>Luk.</hi> 22.20.</p>
+               <p>Q. <hi>How is Ieſus Chriſt our Mediatour?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By taking our nature, and by undertaking our reconci<g ref="char:EOLhyphen"/>liation, <hi>Heb.</hi> 2.14. 1 <hi>Tim.</hi> 2.5.</p>
+               <p>Q <hi>How did Chriſt undertake our Reconciliation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By taking upon him the office of a Propher, Prieſt, and King. <hi>Acts</hi> 3.22. <hi>Heb.</hi> 2.17. <hi>Pſal.</hi> 110.1.</p>
+               <p>Q <hi>Why was Chriſt a Prophet?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To declare things to come, to reveale the way to life, and to furniſh his Church with an able Miniſtery to the worlds end, <hi>Rev.</hi> 1.1. <hi>Luke</hi> 4.18, 19. 2 <hi>Cor.</hi> 5.20.</p>
+               <p>Q. <hi>What did he as a Prieſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He bare our names on the breſtplate of his Righteouſ<g ref="char:EOLhyphen"/>neſſe, offered himſelfe a ſacrifice for ſin, and now appears before God, making interceſſion for his ſaints, <hi>Exod.</hi> 28.9. <hi>Heb</hi> 5.9. <hi>Rom.</hi> 8.34.</p>
+               <p>Q. <hi>What flowes from hence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Redemption, and Juſtification.</p>
+               <p>Q. <hi>What benefit have we by our redemption by Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſatisfaction of Gods juſtice, the fulfilling of Gods Law, freedome from the power of Satan, and an entrance into glory purchaſed, <hi>Mark.</hi> 10.45. <hi>Iſa.</hi> 53.5. <hi>Mat.</hi> 5.17. <hi>Rom.</hi> 10.4. and 8.12. 1 <hi>Cor</hi> 15.15.</p>
+               <p>Q <hi>What by our Iuſtification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Remiſſion of ſin, and imputation of righteouſneſſe, <hi>Rom.</hi> 8.1. <hi>Pſal.</hi> 32.2, <hi>Rom.</hi> 4 7.</p>
+               <pb n="4" facs="tcp:119496:4"/>
+               <p>Q <hi>Wherein doth Chriſts Kingly office conſiſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It conſiſts in the giving of Lawes, diſpenſation of gifts, conſtant care of us, and protection over us, <hi>Eph.</hi> 4 8, 10. <hi>Mat</hi> 6.29, 30, 31.</p>
+               <p>Q <hi>What are thoſe lawes Chriſt hath ſetled in his Church?</hi>
+               </p>
+               <p>
+                  <hi>A</hi> The law of faith, teaching that our righteouſneſſe comes by faith in Chriſt, <hi>Rom</hi> 3 28.</p>
+               <p>Secondly, the law morall, made now a new Commande<g ref="char:EOLhyphen"/>ment unto Evangelicall purpoſes, <hi>Iohn</hi> 13.34. 1 <hi>Iohn</hi> 4.11.</p>
+               <p>Q <hi>What elſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Inſtitution of new ordinances and officers, as change<g ref="char:EOLhyphen"/>ing circumciſion into baptiſme, the Paſſeover into the Supper, Prieſts into Paſtours and Teachers, and of Altars into Tables.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> Of the uſe of the Law under the Goſpel, and the gifts of Chriſt to his Church.</head>
+               <p>Qu. <hi>BVt the Scripture ſaith, the law is not made for a righteous man,</hi> 1 Tim. 1.9.</p>
+               <p>
+                  <hi>A.</hi> We are bound to obey the morall law eſtabliſhed by Chriſt; but being made righteous by faith in Chriſt, it doth not condemne, <hi>Rom.</hi> 8.34.</p>
+               <p>Secondly, It is not given to a righteous man, as the con<g ref="char:EOLhyphen"/>dition of the Covenant, but as an Appendix thereunto, <hi>Luke</hi> 1.75.</p>
+               <p>Q <hi>What are thoſe Evangelicall purpoſes, for which the Law was eſtabliſhed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, It was eſtabliſhed to be a Schoole-miſtris, to bring us to Chriſt, <hi>Gal.</hi> 3.17, 18, 20, 21.</p>
+               <p>Secondly, That it might be a rule of life to redeemed per<g ref="char:EOLhyphen"/>ſons, <hi>Luke</hi> 1.71, 74. <hi>Rom.</hi> 2.13.</p>
+               <p>Q <hi>How prove you that the morall Law is not aboliſhed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe Chriſt expoundeth, urgeth, and confirmeth the Law, <hi>Matth.</hi> 5.18, 19, 20, 21. <hi>Matth.</hi> 15.4. Secondly,
+<pb n="5" facs="tcp:119496:4"/>becauſe faith doth eſtabliſh it, <hi>Rom.</hi> 3.31. 1 <hi>Cor.</hi> 7 19. <hi>Gal.</hi> 3.17.</p>
+               <p>Thirdly, Becauſe it was given 400 years after the Promiſe was made, which had bin to no end, had the Law beene aboliſhed, <hi>Gal</hi> 3.17, 18, 19, 20.</p>
+               <p>Q <hi>Rehearſe the ten Commandements.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Thou ſhalt have no other Gods be<g ref="char:EOLhyphen"/>fore me, &amp;c.</p>
+               <p>Q. <hi>How are they divided?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Into two Tables; the firſt, containe our duty towards God, in the foure firſt; and our duty towards others, in the ſix laſt.</p>
+               <p>Q. <hi>What are the ſpeciall duties required in the firſt Commandement?</hi>
+               </p>
+               <p>
+                  <note place="margin">Thou ſhalt have no other gods before me.</note>
+                  <hi>A.</hi> It teacheth, that we ought to know, worſhip, and obey the only true God.</p>
+               <p>
+                  <note place="margin">2. <hi>Precept.</hi> Thou ſhalt not make to thy ſelfe, &amp;c.</note>Q <hi>What teacheth the ſecond?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That we worſhip the true God with ſuch meanes and geſtures as hee hath pre<g ref="char:EOLhyphen"/>ſcribed.</p>
+               <p>
+                  <note place="margin">3. <hi>Precept.</hi> Thou ſhalt not take, &amp;c.</note>Q <hi>What teacheth the third?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That we uſe the titles, word, and or<g ref="char:EOLhyphen"/>dinances of God, with reverence and godly feare.</p>
+               <p>Q. <hi>What teacheth the fourth?</hi>
+               </p>
+               <p>
+                  <note place="margin">Remember that thou keep, &amp;c.</note>
+                  <hi>A.</hi> That we ſet apart the Lords Sabbath, as from our ordinary labours, ſo from all prophane ſports; as a holy time to be ſpent in hearing the word, reading the Scriptures, meditation, conference, and prayer.</p>
+               <p>Q. <hi>What are the ſpeciall duties taught in the ſecond Table?</hi>
+                  <note place="margin">1. Honour thy Fa<g ref="char:EOLhyphen"/>ther.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> The firſt teacheth, that we honour perſons according to their lawfull dignity.</p>
+               <pb n="6" facs="tcp:119496:5"/>
+               <p>
+                  <note place="margin">2. Thou ſhalt not kill.</note>The ſecond, that wee preſerve the life; The third, the chaſtity; The fourth, the goods; <note place="margin">3 Thou ſhalt not commit adultery.</note> The fifth, the good name of our neighbour. <note place="margin">4. Thou ſhalt not ſteale.</note>
+               </p>
+               <p>Q <hi>What teacheth the ſixth?</hi>
+               </p>
+               <p>
+                  <note place="margin">5. Thou ſhalt not bear falſe witnes, &amp;c.</note>
+                  <hi>A.</hi> That we be content with our owne condition, and heartily deſire the proſperity of others.</p>
+               <p>
+                  <note place="margin">6. Thou ſhalt not cover, &amp;c.</note>Q <hi>What are the ſpeciall vices forbidden in theſe ten Commandements?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Whatſoever any Commandement af<g ref="char:EOLhyphen"/>firmeth, the contrary thereunto is a ſin, and therefore forbidden.</p>
+               <p>Q <hi>Were the Iewes, unto whom the morall law was given on Mount</hi> Sinai, <hi>partakers of the ſame new Covenant that Chriſtians are now partakers of?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They were; for it was the ſame Co<g ref="char:EOLhyphen"/>nant for ſubſtance, they had the ſame Chriſt, the ſame ſpirit, and the ſame faith, <hi>Iohn</hi> 19.25. <hi>Gen.</hi> 49.10. <hi>Ezek.</hi> 36.26. 1 <hi>Cor.</hi> 10.4.</p>
+               <p>But ſecondly; There was a graduall di<g ref="char:EOLhyphen"/>ſtinction, they ſaw Chriſt in the ſhadow, and but darkly; but we with open face, and in the light; they beleeved in the Meſſiah to come, and we, in Chriſt already come, <hi>Heb</hi> 13.8. 1 <hi>Cor.</hi> 3.18.</p>
+               <p>Q. <hi>What are thoſe gifts that Chriſt, as King, beſtowes upon his Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Some are common as miniſteriall and miraculous gifts; and ſome are ſpeciall, as ſaving and ſanctifying gifts, 1 <hi>Cor.</hi> 12.4, 5, 6, 7. <hi>Rom.</hi> 8.9.</p>
+               <p>Q <hi>Vpon whom are theſe ſpeciall gifts beſtowed?</hi>
+               </p>
+               <pb n="7" facs="tcp:119496:5"/>
+               <p>
+                  <hi>A.</hi> Upon his elect, <hi>Rom.</hi> 11.5. <hi>Tit.</hi> 1.1. 1 <hi>Pet.</hi> 1.2. 1 <hi>Theſ.</hi> 5.9. 2 <hi>Theſ.</hi> 2.13.</p>
+               <p>Q. <hi>What is election?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is the eternall decree of God, whereby he maketh choice of certain perſons, out of the loſt race of mankinde, to be veſſels of honour, to the praiſe of his glorious grace, <hi>Epheſ.</hi> 1.4, 6. <hi>Rom.</hi> 8.29, 30. <hi>Rom</hi> 11.7.</p>
+               <p>Q <hi>Are we in Covenant ſo ſoon as we are elected?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, becauſe the Covenant is in time, and upon con<g ref="char:EOLhyphen"/>ditions; but election is eternall, and abſolute; yet it doth infallibly make way for the Covenant, <hi>Rom</hi> 9.13. <hi>Iam.</hi> 1.17. <hi>Epheſ.</hi> 1.6.</p>
+               <p>Q. <hi>Then being elected, we may live as we liſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, becauſe election ordaining the end, Salvation; ordains alſo our making and keeping Covenant with God, <hi>Rom.</hi> 8.29.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHHAP. IV.</hi> Of the obſervation and termes of the Covenant.</head>
+               <p>Qu. <hi>VVHat is it to keep Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is to ſtand to thoſe Articles contained in the Covenant, with faith, and a good conſcience, <hi>Ier.</hi> 30.11. 1 <hi>Tim.</hi> 1.10.</p>
+               <p>Q. <hi>What then is it to ſin?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Sin is every breach of Gods Covenant, <hi>Levit.</hi> 26.15. <hi>Iere.</hi> 11.10. <hi>Iſa.</hi> 24. 1 <hi>Mal.</hi> 2.8, 10. <hi>Rom.</hi> 1.31.</p>
+               <p>Q <hi>Why ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe he that breaks Covenant, ſins both againſt Law, and Goſpel.</p>
+               <p>Q. <hi>What are thoſe great ſins againſt the Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Infidelity, impenitency, hypocriſie, and apoſtaſie, <hi>Marke</hi> 16.16. <hi>Luke</hi> 13.23. <hi>Rom.</hi> 2.4. 1 <hi>Tim.</hi> 4.1. 2 <hi>Tim.</hi> 3.1. <hi>Rev.</hi> 2.4. <hi>Marke</hi> 3.28, 29.</p>
+               <p>Q. <hi>How is infidelity a ſin againſt the Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In that it refuſeth Chriſt, and neglecteth and con<g ref="char:EOLhyphen"/>temneth the means, <hi>Iohn</hi> 1.11, 13. <hi>Mat.</hi> 21.33.</p>
+               <pb n="8" facs="tcp:119496:6"/>
+               <p>Q. <hi>How is impenitency a ſin againſt the Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In that neither the diſcovery of our miſery, nor the tender of mercy, will ſoften impenitent hearts, <hi>Mat.</hi> 11.17</p>
+               <p>Q <hi>How is hypocriſie a ſin againſt the Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In that men profeſſe Chriſt in words, and deny him in their deeds, <hi>Tit.</hi> 1.16.</p>
+               <p>Q <hi>How is apoſtaſie a ſin againſt the Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Either when we fall partially, and leave our firſt love, or finally, and never return, <hi>Rev.</hi> 2.5. 2 <hi>Pet</hi> 2.20, 21.</p>
+               <p>Q. <hi>What are the termes of the Covenant?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> On Gods part, his taking the redeemed in Chriſt to be his people.</p>
+               <p>On mans part, a Chriſtians taking of God by faith in Chriſt, to be his God, <hi>Hoſ.</hi> 2.19. <hi>Iſa.</hi> 54.10. <hi>Iſa.</hi> 61.8. <hi>Ier.</hi> 32.40, 41. <hi>Iohn</hi> 3.33.</p>
+               <p>Q <hi>What flowes from hence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Our union with Chriſt, and our communion with his Church.</p>
+               <p>Q <hi>What flowes from our union with Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Sanctification, and Adoption, 2 <hi>Cor.</hi> 5.17. <hi>Ioh.</hi> 1.12, 13</p>
+               <p>Q. <hi>What is Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a new impreſſion of the Image of God, where<g ref="char:EOLhyphen"/>by our natures and purpoſes are univerſally changed from the ſtate of nature, to the ſtate of grace, <hi>Rom.</hi> 12.2. <hi>Eph.</hi> 4.24. 2 <hi>Cor.</hi> 4.16.</p>
+               <p>Q. <hi>What are the parts of Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Mortification, whereby the power of ſin is deſtroyed, that it rules not over us; and Renovation, whereby we be<g ref="char:EOLhyphen"/>come new creatures, <hi>Col</hi> 3.3, 5. and 10. <hi>Rom.</hi> 8.13.</p>
+               <p>Q. <hi>By what means are theſe graces wrought in us?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the faithfull preaching of the word, the power of the holy Ghoſt, ſerious conſideration, godly ſorrow, and fer<g ref="char:EOLhyphen"/>vent prayer, <hi>Iohn</hi> 17.17. <hi>Acts</hi> 10.34. 2 <hi>Cor.</hi> 3.9. <hi>Pſal.</hi> 119.59. 2 <hi>Cor.</hi> 7.10. <hi>Iam.</hi> 1.5.</p>
+               <p>Q. <hi>What is adoption?</hi>
+               </p>
+               <pb n="9" facs="tcp:119496:6"/>
+               <p>
+                  <hi>A.</hi> It is Gods taking of ſtrangers from the wombe, to be his children of his free grace, <hi>Iſa.</hi> 43.6. and 56.45. and 61.5, 6.</p>
+               <p>Q. <hi>What are the priviledges of our adoption?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A ſpirit of prayer, whereby we cry <hi>Abba, Father;</hi> aſſurance of Gods love in per<g ref="char:EOLhyphen"/>ſeverance and glorification, <hi>Rom</hi> 8.16. and 26. <hi>Gal.</hi> 4.4.</p>
+               <p>Q. <hi>What is Prayer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is an act of the ſpirit of adoption, craving ſupply of our wants in the name of Chriſt, &amp; giving thanks for mercies received</p>
+               <p>Q <hi>When doth the Spirit teach us to pray right?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When we pray according to the form preſcribed by Chriſt, <hi>Matth</hi> 6.9.</p>
+               <p>Q <hi>But if we have the Spirit teaching us to pray, what need we a forme?</hi>
+               </p>
+               <p>
+                  <hi>A</hi> Becauſe the Spirit teacheth by the word, and by the word we try the Spirit, 1 <hi>Ioh</hi> 4.1</p>
+               <p>Q. <hi>Into how many parts is the Lords prayer divided?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Into three: Firſt, a Preface: Secondly, ſix Petitions: Thirdly, the concluſion.</p>
+               <p>Q <note place="margin">Our Father, which art, &amp;c.</note>
+                  <hi>What doth the preface contain?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That we pray to God as his Sons, and for others aſwell as for our ſelves, and with hearts lifted up towards Heaven.</p>
+               <p>Q <hi>What doth the firſt Petition contain?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note place="margin">Hallowed be thy Name.</note> We crave, that God would honour and advance his glory, worſhip, and goſpel.</p>
+               <p>Q <hi>What crave we in the ſecond Petition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note place="margin">Thy Kingdome come.</note> That God would deſtroy the king<g ref="char:EOLhyphen"/>dome of Satan, rule in our hearts by his grace, and after bring us to his heavenly kingdome.</p>
+               <pb n="10" facs="tcp:119496:7"/>
+               <p>Q. <hi>What crave we in the third Petition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note place="margin">Thy will be done in earth, &amp;c.</note> That the promiſes of the Goſpel may be performed, Prophecies fulfilled, the whole will of God as truly done on earth by us, as it is done in Heaven by the bleſſed Angels.</p>
+               <p>Q. <hi>What is craved in the fourth Petition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note place="margin">Give us this day. &amp;c.</note> We crave things neceſſary for this life, contentation with them, and a bleſſing on them.</p>
+               <p>Q <hi>What is craved in the fift Petition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note place="margin">Forgive us our treſpaſſes, &amp;c.</note> We pray, that God will not puniſh, but pardon our ſins, as we are willing to pardon others.</p>
+               <p>Q. <hi>What aske we in the ſixth Petition.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note place="margin">And lead us not into temptation, &amp;c.</note> We pray that we may not be left of our God, to fall into the ſnares of ſin or Sa<g ref="char:EOLhyphen"/>tan, but that we may be ſuſtained and de<g ref="char:EOLhyphen"/>livered by his grace.</p>
+               <p>Q. <hi>What doth the concluſion contain?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Certain reaſons that God will heare us: <note place="margin">For thine is the Kingdom, &amp;c.</note> Firſt, we are ſubjects of his Kingdome: Secondly, he is able to help us from heaven: Thirdly, that to heare us will make for his glory.</p>
+               <p>Q <hi>What is contained in the word, Amen?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Strong deſires on our part, that out prayers may be heard.</p>
+               <p>Q <hi>What if God doth not heare us, though we pray on this manner unto him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We muſt then examine the cauſe, humble our ſouls, continue our ſupplicati<g ref="char:EOLhyphen"/>ons, and wait Gods time, <hi>Lam.</hi> 3.40. <hi>Iam,</hi> 4.3. <hi>Luke</hi> 11.8. <hi>Lev.</hi> 18.1.2, 5.</p>
+               <p>Q. <hi>What is aſſurance?</hi>
+               </p>
+               <pb n="11" facs="tcp:119496:7"/>
+               <p>
+                  <hi>A.</hi> Certain ſtrong and clear teſtimonies evidencing unto us, that we are the children of God.</p>
+               <p>Q. <hi>What are thoſe teſtimonies?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three: Firſt, Sanctification, wherby the blot of ſin is purged: Secondly, Juſtification, whereby the guilt of ſinne is removed: Thirdly, the teſtimony of the holy Ghoſt ſeal<g ref="char:EOLhyphen"/>ing both theſe unto us, 1 <hi>Iohn</hi> 3.7, 8. <hi>Rom,</hi> 8.13.16.</p>
+               <p>Q <hi>What is finall perſeverance?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a Chriſtians holding of faith and a good conſci<g ref="char:EOLhyphen"/>ence to the end of his life, 1 <hi>Tim.</hi> 1.19. <hi>Gen.</hi> 5.24. <hi>Luk.</hi> 1.6.</p>
+               <p>Q <hi>What keeps a Chriſtian that be doth not fall away?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſtability of the Covenant of God, the immorta<g ref="char:EOLhyphen"/>lity of the ſeed of grace, and the infallibility of the power of Chriſt, <hi>Iſa.</hi> 54.9. <hi>Iere.</hi> 32.40. and 44.5. 1 <hi>Pet.</hi> 1.23. 1 <hi>Iohn</hi> 3.9. 1 <hi>Pet.</hi> 1.5.</p>
+               <p>Q. <hi>What is glorification?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a freedome from all ſin and miſery, and the frui<g ref="char:EOLhyphen"/>tion of perfect and everlaſting happineſſe beyond compari<g ref="char:EOLhyphen"/>ſon or comprehenſion, <hi>Eph.</hi> 5.27. <hi>Pſal.</hi> 16.11.</p>
+               <p>Q. <hi>What are the chiefe means whereby this happie eſtate is obtained by us?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The preaching of the word, and the right adminiſtra<g ref="char:EOLhyphen"/>tion of the ſeals, through the power of the holy Ghoſt, <hi>Ro.</hi> 1.16, 17. 2 <hi>Cor.</hi> 5.8. 2 <hi>Cor.</hi> 4.7. 1 <hi>Cor.</hi> 11.23, 26.</p>
+               <p>Q <hi>Who may preach the Word?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Such as are ſent of God, being qualified with ſuffici<g ref="char:EOLhyphen"/>ent gifts, and externally called thereunto, <hi>Rom.</hi> 10.15. <hi>Mat.</hi> 28.19. <hi>Eph.</hi> 4.1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 17. <hi>Heb.</hi> 5.4.</p>
+               <p>Q. <hi>What benefit have we by the preaching of the word?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Vocation, wherby we are called from the ſtate of ſin, unto the ſtate of grace.</p>
+               <p n="2">2 Faith in Chriſt Jeſus our Lord.</p>
+               <p>Q <hi>What is faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A reſting of the ſoule upon Chriſt the Midiatour of the new Covenant, for life and ſalvation, <hi>Ioh.</hi> 13.15. <hi>Iſa.</hi> 10.20 26.3. 2 <hi>Cor.</hi> 3.4. 1 <hi>Pet.</hi> 5.7.</p>
+               <p>Q <hi>Wherein conſiſteth the excellency of faith?</hi>
+               </p>
+               <pb n="12" facs="tcp:119496:8"/>
+               <p>
+                  <hi>A.</hi> In that it conquers Satan, overcomes the world purgeth the heart, comforteth in trouble, and brings us to glory, 1 <hi>Iohn</hi> 5.8. <hi>Acts</hi> 15.9. 1 <hi>Pet.</hi> 5.9. <hi>Hab.</hi> 2.4. <hi>Rom.</hi> 1 16, 17.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Of the ſeals of the Covenant.</head>
+               <p>
+                  <hi>Q. HOw is the new Covenant confirmed unto us?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the ſeals thereof, Baptiſme, and the Lords Supper.</p>
+               <p>
+                  <hi>Q. Why are theſe called ſeals?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe by outward and viſible Elements are repre<g ref="char:EOLhyphen"/>ſented and confirmed inviſible graces, <hi>Ro.</hi> 4.11. 1 <hi>Cor.</hi> 10.4.</p>
+               <p>
+                  <hi>Q. What is baptiſme a ſeale of?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a ſeale of our being in Covenant, and of our en<g ref="char:EOLhyphen"/>trance into the viſible Church, <hi>Acts</hi> 8.38. <hi>Col.</hi> 2.11, 12 <hi>Matth.</hi> 28.19.</p>
+               <p>Q. <hi>What doth baptiſme ſeale unto us?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That as the partaker is waſhed with water, ſo remiſ<g ref="char:EOLhyphen"/>ſion of ſins, and ſanctification is ſignified and ſealed, 1 <hi>Pet.</hi> 3.21. <hi>Eph</hi> 4.5. <hi>Rom</hi> 6.4.</p>
+               <p>
+                  <hi>Q. To whom doth baptiſme belong?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To beleevers and their ſeed, <hi>Acts</hi> 2.38. <hi>Mal</hi> 2.15.</p>
+               <p>
+                  <hi>Q. Why ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe beleeving Parents, that firſt received the faith, entred into Covenant for themſelves, and their poſterity.</p>
+               <p>Q <hi>What is then required of perſons baptized?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That they do beleeve in Chriſt, and repent them of their ſins, and bring forth the fruits of righteouſneſſe, tem<g ref="char:EOLhyphen"/>perance, and godlineſſe, <hi>Mat</hi> 3.2. 8. <hi>Rom.</hi> 6.4.</p>
+               <p>
+                  <hi>Q. What is the Supper of the Lord?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a ſeale of our Communion with Chriſt, and nouriſhment from him, 1 <hi>Cor.</hi> 10.16. 1 <hi>Ioh.</hi> 1.3. <hi>Mat.</hi> 26.26</p>
+               <p>Q <hi>What is ſealed in the Lords Supper?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By thoſe viſible elements of bread and wine, the body, and blood of Chriſt is ſealed to be our ſpirituall meat and drink, 1 <hi>Cor.</hi> 11.24.25.26.</p>
+               <p>Q <hi>What is required before we come to the Lords Supper?</hi>
+               </p>
+               <pb n="13" facs="tcp:119496:8"/>
+               <p>
+                  <hi>A.</hi> Examination of our ſelves, reformation of our lives, &amp; reconciliation unto others, 1 <hi>Cor.</hi> 11.28. <hi>Iam.</hi> 4.8. <hi>Mat.</hi> 5.24.</p>
+               <p>Q <hi>Who may come as fit receivers of this ſeale?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Such as come with the hand of faith, an humble ſpirit, in hungry ſoul, and a thankefull heart, 1 <hi>Cor.</hi> 10.16. <hi>Iſa.</hi> 55.1. <hi>Mat.</hi> 11.28. <hi>Pſal.</hi> 116.12, 13.</p>
+               <p>
+                  <hi>Q What if perſons come that are not thus qualified?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They eat and drinke ſome heavy judgement to them<g ref="char:EOLhyphen"/>ſelves, and become guilty of the body and bloud of Chriſt.</p>
+               <p>Q. <hi>What if ignorant and ſcandalous perſons ſhall intrude themſelves to this banquet?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They are to be kept back, left they runne upon their own ruine, <hi>Ezek</hi> 22.26. &amp; 44.23.</p>
+               <p>Q. <hi>What if they continue ſtill careleſſe and impenitent?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They are to be admoniſhed; and in caſe they remain obſtinate, they are to be excommunicated, 1 <hi>Cor.</hi> 5.5, 11. 1 <hi>Cor.</hi> 4.21. 2 Theſ. 3.14. 1 Tim. 1.20. Mat. 18.15, 16, 17.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> Of Chriſtian communion, and of the comming of Chriſt.</head>
+               <p>Q. <hi>VVHat is Chriſtian communion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is that fellowſhip whereby Chriſtians ad<g ref="char:EOLhyphen"/>moniſh and comfort one another in love, either as members of the Church in generall, or as affixed to ſome particular Congregation.</p>
+               <p>
+                  <hi>Q. How is the Catholike Church diſtinguiſhed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Into the triumphant company or glorified Saints and glorious Angels in Heaven; and into that militant company of godly and faithfull warriours, againſt ſin and Satan here on earth, <hi>Heb.</hi> 12 23. 2 <hi>Tim.</hi> 4.7. <hi>Heb</hi> 12.4. <hi>Rev.</hi> 12.7.</p>
+               <p>
+                  <hi>Q. What is the Church in generall?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a company of people called out of the world, to the faith and profeſſion of Chriſtian doctrine, <hi>Cant.</hi> 2.16. <hi>Ioh.</hi> 5.4. 1 <hi>Cor.</hi> 12.12. <hi>Col.</hi> 1.24.</p>
+               <p>
+                  <hi>Q. What is a particular Congregation?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is a parcell of the Church Catholike, joyned in Chri<g ref="char:EOLhyphen"/>ſtian fellowſhip in the uſe of Gods ordinances, for mutuall edification according to Goſpel rules, <hi>Rev.</hi> 1 4. 1 <hi>Cor.</hi> 8.19. 1 <hi>Cor.</hi> 1.2. 1 <hi>Ioh.</hi> 1.8. 1 <hi>Theſ.</hi> 5.17.</p>
+               <pb n="12" facs="tcp:119496:9"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:119496:9"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:119496:10"/>
+               <p>Q <hi>What are the markes of the true Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſound preaching of the Word, and the right ad<g ref="char:EOLhyphen"/>miniſtration of the Sacraments by lawfull Paſtours and Tea<g ref="char:EOLhyphen"/>chers, <hi>Mat.</hi> 28.19, 20. <hi>Acts</hi> 2.42.</p>
+               <p>Q. <hi>VVhat learn we hence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That Congregations ſhould be carefull to get faithfull Paſtours. Secondly, That to have a Miniſter that cannot preach is intolerable, becauſe it takes away a marke of the true Church.</p>
+               <p>
+                  <hi>Q. VVhat are the priviledges of the Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The promiſe of Chriſts ſpeciall preſence amongſt them, and his watchfull providence over them to the worlds end, <hi>Mat.</hi> 28.20. <hi>Pſal</hi> 125.1.</p>
+               <p>
+                  <hi>Q. VVhen ſhall the end of the world come?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſet time is not revealed, but there are certain ſorts of ſignes of it, <hi>Mat</hi> 24 36.</p>
+               <p>Q. <hi>VVhat are the firſt ſort?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The univerſall preaching of the Goſpel, bloudy perſe<g ref="char:EOLhyphen"/>cution, and generall apoſtaſie, <hi>Mat</hi> 24.14 <hi>Rev.</hi> 2.18. &amp; 11.7, 8. 2 Theſ. 2.9. <hi>Mat.</hi> 24.24.</p>
+               <p>Q. <hi>VVhat are the ſecond ſort?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The revealing of Antichriſt, the ruine of <hi>Babylon,</hi> and the new frame of a glorious Church, 2 <hi>Theſ.</hi> 2.8. <hi>Rev.</hi> 18.2. &amp; 17.16 <hi>Rom.</hi> 11.25, 26. <hi>Rev.</hi> 21.2.</p>
+               <p>Q. <hi>VVhat are the laſt ſignes?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Carnall ſecurity, groſſe impiety, ſtrange ſignes in Hea<g ref="char:EOLhyphen"/>ven and earth.</p>
+               <p>Q. <hi>VVhat ſhall be done at the end of the world?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The dead ſhall rife, the books of Gods knowledge and mans conſcience ſhall be opened, Chriſt Jeſus ſhall paſſe a finall ſentence according as mens workes ſhall be, <hi>Iob</hi> 19.25. <hi>Ioh.</hi> 5.26. <hi>Rev.</hi> 20.12. <hi>Rev.</hi> 22.11.</p>
+               <p>Q. <hi>VVhat will follow upon this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They that have done well ſhall be received into ever<g ref="char:EOLhyphen"/>laſting glory, and they that have done evil ſhall be caſt into everlaſting torments, <hi>Mat.</hi> 25.48.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
